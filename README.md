@@ -23,10 +23,10 @@ Simulate the Ising model in a square at various temperatures, using a Monte Carl
 Solve the heat equation in a bar with finite differences, using Crank-Nicolson time stepping.
 
 ## Recursive QR
-Implement QR factorization in a recursive method for an $m \times n$ matrix.
+Implement QR factorization in a recursive method for an $m \times n$ matrix.  You can use a linear algebra package for holding the arrays, but not for QR.
 
 ## Finite Elements in 1D
-Implement FEM in 1D for $H^1$ elements.
+Implement FEM in 1D for $H^1$ elements, without using a finite element package.
 
 ## Markov Chain Metropolis Sampling
 Build a method which samples from a scalar Gaussian distribution, but applies metropolis sampling to converge to all minima of a specified function.
